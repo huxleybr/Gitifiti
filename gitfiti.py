@@ -31,7 +31,7 @@ except NameError:
 
 
 GITHUB_BASE_URL = 'https://github.com/'
-FALLBACK_IMAGE = 'kitty'
+FALLBACK_IMAGE = 'hireme'
 
 
 TITLE = '''
